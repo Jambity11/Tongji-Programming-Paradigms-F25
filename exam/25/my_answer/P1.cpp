@@ -4,6 +4,13 @@
 #include <stack>
 using namespace std;
 
+// 骗分
+// int main() {
+// 	cout << 25 << endl;
+// 	return 0;
+// }
+
+
 int main() {
 	cin.tie(0)->sync_with_stdio(0);
 	string s;

@@ -1,5 +1,5 @@
-const int TYPE_RUNNER = 0; // ±ßÔµĞĞÕß
-const int TYPE_PSYCHO = 1; // Èü²©¾«Éñ²¡
+const int TYPE_RUNNER = 0; // è¾¹ç¼˜è¡Œè€…
+const int TYPE_PSYCHO = 1; // èµ›åšç²¾ç¥ç—…
 
 class CyberEntity {
 protected:
