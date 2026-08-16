@@ -8,6 +8,6 @@ Tongji-Programming-Paradigms-F25/
 └── exam/        # 期末考资料
 ```
 
-期末项目仓库地址：https://github.com/Jambity11/ClashOfClans.git
+期末项目仓库地址：https://github.com/Jambity11/ClashOfClans
 
 
